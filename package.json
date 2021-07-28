@@ -1,0 +1,12 @@
+{
+  "name": "foody-burgers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marco Aspeitia <maspeitia.31@gmail.com>",
+  "license": "MIT"
+}
